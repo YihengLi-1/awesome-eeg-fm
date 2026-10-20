@@ -11,6 +11,15 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **HyBRA-EEG: Hyperbolic Global-Local Brain-Region Aggregation for Self-Supervised EEG Representation Learning**  
+  [paper](https://arxiv.org/abs/2610.16589) · *Xin Liu et al.* (arXiv 2026; [arXiv:2610.16589](https://arxiv.org/abs/2610.16589))
+
+- **Multimodal LLMs Can Learn to Read Brain Signals: A Vision--Language Model for Unified Multi-Task EEG Decoding**  
+  [paper](https://arxiv.org/abs/2610.09355) · *Parastoo Azizeddin et al.* (arXiv 2026; [arXiv:2610.09355](https://arxiv.org/abs/2610.09355))
+
+- **SPERA: Spherical Prior EEG Foundation Model with Geometry- and Frequency-Aware Latent Prediction**  
+  [paper](https://arxiv.org/abs/2610.10571) · *Minsu Kim et al.* (arXiv 2026; [arXiv:2610.10571](https://arxiv.org/abs/2610.10571)) · [code](https://github.com/sees4321/SPERA_EEG)
+
 - **Lightweight Semantic EEG Foundation Model for Frozen Cross-Disorder Transfer**  
   [paper](https://arxiv.org/abs/2610.05503) · *Rita Huan-Ting Peng and Nhat Bui* (arXiv 2026; [arXiv:2610.05503](https://arxiv.org/abs/2610.05503))
 
