@@ -11,6 +11,9 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **Predicting Cognitive Tasks from Single-Channel EEG through Task-Semantic Alignment**  
+  [paper](https://arxiv.org/abs/2610.15104) · *Ryota Kanai* (arXiv 2026; [arXiv:2610.15104](https://arxiv.org/abs/2610.15104))
+
 - **HyBRA-EEG: Hyperbolic Global-Local Brain-Region Aggregation for Self-Supervised EEG Representation Learning**  
   [paper](https://arxiv.org/abs/2610.16589) · *Xin Liu et al.* (arXiv 2026; [arXiv:2610.16589](https://arxiv.org/abs/2610.16589))
 
