@@ -11,6 +11,9 @@ If you have any suggestions or want to contribute, please open an issue or submi
 ## EEG Foundation Models
 
 ### 2026 
+- **BrainCodes: A Lightweight EEG Foundation Model over Discrete Neural Codes**  
+  [paper](https://arxiv.org/abs/2610.29320) · *Kleanthis Avramidis et al.* (arXiv 2026; [arXiv:2610.29320](https://arxiv.org/abs/2610.29320)) · [code](https://github.com/unknown)
+
 - **Predicting Cognitive Tasks from Single-Channel EEG through Task-Semantic Alignment**  
   [paper](https://arxiv.org/abs/2610.15104) · *Ryota Kanai* (arXiv 2026; [arXiv:2610.15104](https://arxiv.org/abs/2610.15104))
 
